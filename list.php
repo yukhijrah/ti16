@@ -1,9 +1,16 @@
 <?php
 
     $doas = [
-        [
-            "name" => "Sukmo Afri Ardi Saputro",
-            "nim" => "0110216060",
+        "title" => "Kumpulan Mahasiswa TI 2016",
+        "data" => [
+            [
+                "name" => "Sukmo Afri Ardi Saputro",
+                "nim" => "0110216060"
+            ],
+            [
+                "name" => "Test",
+                "nim" => "123"
+            ],
         ]
     ];
 
