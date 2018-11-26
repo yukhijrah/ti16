@@ -1,7 +1,7 @@
 <?php
 
     $doas = [
-        "title" => "Kumpulan Mahasiswa TI 2016",
+        "title" => "Heyy Tayo",
         "data" => [
             [
                 "name" => "Sukmo Afri Ardi Saputro",
