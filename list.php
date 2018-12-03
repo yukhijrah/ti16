@@ -1,7 +1,7 @@
 <?php
 
     $doas = [
-        "study" => "Teknik Informatika",
+        "title" => "Teknik Informatika",
         "year" => 2016,
         "data" => [
             [
